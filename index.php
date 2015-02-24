@@ -137,6 +137,44 @@
 							</div>
 						</div>
 						<div class="col-md-5 column">
+							<div class="panel panel-info">
+								<div class="panel-heading">Broken Screen?</div>
+								<div class="panel-body">
+									<p>Here at Guru Computers Ltd, we specialize in Electrical Repair, enabling us to repair most Phones, Tablets, Laptops and other Electrical devices.</p>
+									<p>Due to our unique blend of Hardware & Software Engineers, we are able to fix faults both Hardware & Software based including:-</p>
+									<ul>
+										<li>Screen Replacements</li>
+										<li>HDD Upgrades</li>
+										<li>Drive Replacements</li>
+										<li>Broken Casings</li>
+										<li>Battery or Charging Faults</li>
+										<li>Software Upgrades</li>
+										<li>Speaker / Microphone Faults</li>
+										<li>And Much Much More!</li>										
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-5 column">
+							<div class="panel panel-info">
+								<div class="panel-heading">Broken Screen?</div>
+								<div class="panel-body">
+									<p>Since day zero, we have consistently developed our Printed Product range to provide the best choice, value, and technological opportunities for our customers. We have a wide and varied range of over 100 media types from CD and DVD to Flyers and Promotional Products.</p>
+									<p>We have direct relationships with some of the world’s leading manufacturers, and are UK distributors for a number of brands.</p>
+									<p>Our Printing Range includes:-</p>
+									<ul>
+										<li>CD / DVD On-Body Printing</li>
+										<li>Business Cards</li>
+										<li>Leaflets & Flyers</li>
+										<li>A5 Booklets</li>
+										<li>Litho Posters</li>
+										<li>Outdoor PVC Banners</li>
+										<li>Promoter Packs</li>
+										<li>Bar Menus</li>
+										<li>And Much Much More!</li>
+									</ul>
+								</div>
+							</div>
 						</div>
 						<div class="col-md-5 column">
 						</div>
