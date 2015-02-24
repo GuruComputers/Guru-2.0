@@ -78,7 +78,7 @@
             }
             echo "&copy"." ".$cy." Guru Computers Ltd."."\n"; 
           ?>
-          <a href="/cdn-cgi/l/email-protection#1b686e6b6b74696f5b7c6e696e7874766b6e6f7e6968357874356e70"><img src="./img/email.jpg" class="icons">Email Us</a>
+          <a href="mailto:sales@gurucomputers.co.uk"><img src="./img/email.jpg" class="icons">Email Us</a>
           <a href="https://www.youtube.com/user/gurucomputersuk" target="_blank"><img src="./img/youtube.png" class="icons">Guru Channel</a>
           <a href="https://www.facebook.com/GuruComputersUK" target="_blank"><img src="./img/facebook.png" class="icons">Guru Facebook</a>
           <a href="https://twitter.com/GuruComputersUK" target="_blank"><img src="./img/twitter.png" class="icons">Guru Twitter</a>
