@@ -55,6 +55,7 @@
         			<li><a href="#">CD Duplication & Printing</a></li>
 					<li><a href="#">Shop</a></li>
 					<li><a href="#">Blog</a></li>
+					<li><a href="#">Testimonials</a></li>
 
         		</ul>
         		<form class="navbar-form navbar-right" role="search">
