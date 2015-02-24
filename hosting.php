@@ -96,26 +96,47 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-5">
-                    <!-- PRICE ITEM -->
-                    <div class="panel price panel-red panel-centered">
-                        <div class="panel-heading  text-center">
-                        <h3>Entry Level Plan</h3>
+                    <div class="panel panel-info">
+                        <div class="panel-heading">Entry Level Plan</div>
+                        <!-- PRICE ITEM -->
+                        <div class="panel price panel-red panel-centered">
+                            <div class="panel-body text-center">
+                                <p class="lead" style="font-size:40px"><strong>£5 / month</strong></p>
+                            </div>
+                            <ul class="list-group list-group-flush text-center">
+                                <li class="list-group-item"><i class="icon-ok text-danger"></i> Recommended for Personal use</li>
+                                <li class="list-group-item"><i class="icon-ok text-danger"></i> 25GB RAID10 Protected Disk Space</li>
+                                <li class="list-group-item"><i class="icon-ok text-danger"></i> 512MB Dedicated DDR3 RAM</li>
+                                <li class="list-group-item"><i class="icon-ok text-danger"></i> 1TB Premium Bandwith</li>
+                                <li class="list-group-item"><i class="icon-ok text-danger"></i> Choice of Linux OS</li>
+                            </ul>
+                            <div class="panel-footer">
+                                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                    <input type="hidden" name="cmd" value="_s-xclick">
+                                    <input type="hidden" name="hosted_button_id" value="J3H3SPKGH7BXL">
+                                    <table>
+                                        <tr>
+                                            <td>
+                                                <input type="hidden" name="on0" value="Management Options">Management Options
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <select name="os0">
+                                                    <option value="Managed">Managed : £10.00 GBP - monthly</option>
+                                                    <option value="Unmanaged">Unmanaged : £5.00 GBP - monthly</option>
+                                                </select> 
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <input type="hidden" name="currency_code" value="GBP">
+                                    <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+                                    <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+                                </form>
+                            </div>
                         </div>
-                        <div class="panel-body text-center">
-                            <p class="lead" style="font-size:40px"><strong>£5 / month</strong></p>
-                        </div>
-                        <ul class="list-group list-group-flush text-center">
-                            <li class="list-group-item"><i class="icon-ok text-danger"></i> Recommended for Personal use</li>
-                            <li class="list-group-item"><i class="icon-ok text-danger"></i> 25GB RAID10 Protected Disk Space</li>
-                            <li class="list-group-item"><i class="icon-ok text-danger"></i> 512MB Dedicated DDR3 RAM</li>
-                            <li class="list-group-item"><i class="icon-ok text-danger"></i> 1TB Premium Bandwith</li>
-                            <li class="list-group-item"><i class="icon-ok text-danger"></i> Choice of Linux OS</li>
-                        </ul>
-                        <div class="panel-footer">
-                            <a class="btn btn-lg btn-block btn-danger" href="#">BUY NOW!</a>
-                        </div>
+                        <!-- /PRICE ITEM -->
                     </div>
-                    <!-- /PRICE ITEM -->
                 </div>
                 <div class="col-md-5">
                     <div class="panel panel-info">
@@ -131,7 +152,7 @@
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> 1GB Dedicated DDR3 RAM</li>
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> 2TB Premium Bandwidth</li>
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Choice of Linux OS</li>
-                                <li class="list-group-item"><i class="icon-ok text-info"></i> 27/7 support</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> Software Update Support</li>
                             </ul>
                             <div class="panel-footer">
                                 <a class="btn btn-lg btn-block btn-info" href="#">BUY NOW!</a>
@@ -155,7 +176,7 @@
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> 2GB Dedicated DDR3 RAM</li>
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> 3TB Premium Bandwidth</li>
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Choice of Linux OS</li>
-                                <li class="list-group-item"><i class="icon-ok text-info"></i> 27/7 support</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> Software Update Support</li>
                             </ul>
                             <div class="panel-footer">
                                 <a class="btn btn-lg btn-block btn-success" href="#">BUY NOW!</a>
@@ -179,7 +200,7 @@
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> 4GB Dedicated DDR3 RAM</li>
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> 4TB Premium Bandwidth</li>
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Choice of Linux OS</li>
-                                <li class="list-group-item"><i class="icon-ok text-info"></i> 27/7 support</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> Software Update Support</li>
                             </ul>
                             <div class="panel-footer">
                                 <a class="btn btn-lg btn-block btn-primary" href="#">BUY NOW!</a>
@@ -188,6 +209,7 @@
                     <!-- /PRICE ITEM -->
                     </div>
                 </div>
+            
             </div>
         </div>
   	</div>
