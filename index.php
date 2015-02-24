@@ -37,8 +37,8 @@
         			<li class="dropdown">
         				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact Us <span class="caret"></span></a>
         				<ul class="dropdown-menu" role="menu">
-        					<li><a href="tel:07942759689"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>Phone Dave (07942 759689)</a></li>
-        					<li><a href="tel:07942759739"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>Phone Neil (07942 759739)</a></li>
+        					<li><a href="tel:07942759689"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Dave (07942 759689)</a></li>
+        					<li><a href="tel:07942759739"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Neil (07942 759739)</a></li>
         					<li class="divider"></li>
         					<li><a href="mailto:sales@gurucomputers.co.uk">Email Us</a></li>
         					<li class="divider"></li>
