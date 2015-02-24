@@ -31,12 +31,12 @@
                         <div class="panel panel-info">
                             <div class="panel-heading">Need some CD's printed?</div>
                             <div class="panel-body">
-                                    <p>Our In-House CD printing is what you need.</P>
-                                    <p>We are able to print your CD's on a range of full face printable CD's.</p>
-                                    <p>Perfect for promotional CD's to send off to Record Labels, Radio Station's, Press.</p>
-                                    <p>Due to the CD's being printed in-house we are able to get the fastest turn around possible.</p>
-                                    <p>Need help in the design? That's no problem our professional team are able to tweak your graphics to enable the best results.</p>
-                                    <br/>
+                                <p>Our In-House CD printing is what you need.</P>
+                                <p>We are able to print your CD's on a range of full face printable CD's.</p>
+                                <p>Perfect for promotional CD's to send off to Record Labels, Radio Station's, Press.</p>
+                                <p>Due to the CD's being printed in-house we are able to get the fastest turn around possible.</p>
+                                <p>Need help in the design? That's no problem our professional team are able to tweak your graphics to enable the best results.</p>
+                                <br/>
                                 <center>
                                     <p><h3>Priced at just 63p excluding VAT per CD / 75p including VAT</h3></p>
                                 </center>
@@ -46,19 +46,29 @@
 
                     <div class="col-md-10 column">
                         <div class="panel panel-info">
-                            <div class="panel-heading">Computer Running Slow?</div>
+                            <div class="panel-heading">Need some CD's burnt?</div>
                             <div class="panel-body">
-                                <p>Here at Guru Computers Ltd we never put a healthy computer down!</p>
-                                <p>We have been busting Computer Viruses as a team for the best part of 17 years, and we aren't going to stop now! With the use of Multi-layered Antivirus Technology, we can provide fast and effective protection against current and future threats.</p>
-                                <p>The bottom line is we keep you safe and we keep it simple! Our range of services include:- </p>
-                                <ul>
-                                    <li>Virus Removals</li>
-                                    <li>PC Upgrades</li>
-                                    <li>Reinstalls</li>
-                                    <li>Laptop Screen Replacements</li>
-                                    <li>Remote Support</li>
-                                    <li>Data Recovery</li>
-                                </ul>
+                                <p>Our In-House CD burning is what you need.</p>
+                                <p>Need the audio normalised? That's not a problem for our professionals.</p>
+                                <p>What about CD text? That is also not a problem.</p>
+                                <p>We are fast and reliable.</p>
+                                <br/>
+                                <center>
+                                    <p><h3>Priced at just 63p excluding VAT per CD / 75p including VAT</h3></p>
+                                </center>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-20 column">
+                        <div class="panel panel-info">
+                            <div class="panel-heading">Guru Computers SPECIAL OFFER</div>
+                            <div class="panel-body">
+                                <p>Have your CD's printed in our in-house facilities and get the data burnt onto the CD's at the same time at no extra cost.</p>
+                                <br/>
+                                <center>
+                                    <p><h3>Priced at just 63p excluding VAT per CD / 75p including VAT</h3></p>
+                                </center>
                             </div>
                         </div>
                     </div>
