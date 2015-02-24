@@ -50,7 +50,7 @@
     <![endif]-->
   </head>
   <body>
-    <div class="container">
+    <div class="wrapper">
     	<div class="jumbotron">
     		<h1>Welcome to Guru Computers</h1> 
     		<p>This page will grow as we add more and more components from Bootstrap...</p>
