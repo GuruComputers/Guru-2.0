@@ -32,18 +32,18 @@
         	</div>
         	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         		<ul class="nav navbar-nav nav-pills">
-        			<li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
-        			<li><a href="#">Link</a></li>
+        			<li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
+        			<li><a href="#">Aboutk</a></li>
         			<li class="dropdown">
-        				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
+        				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact Us <span class="caret"></span></a>
         				<ul class="dropdown-menu" role="menu">
-        					<li><a href="#">Action</a></li>
-        					<li><a href="#">Another action</a></li>
-        					<li><a href="#">Something else here</a></li>
+        					<li><a href="#">Phone Dave</a></li>
+        					<li><a href="#">Phone Neil</a></li>
+        					<li><a href="#">Email Us</a></li>
         					<li class="divider"></li>
-        					<li><a href="#">Separated link</a></li>
+        					<li><a href="#">Follow us on Twitter</a></li>
         					<li class="divider"></li>
-        					<li><a href="#">One more separated link</a></li>
+        					<li><a href="#">Add us on Facebook</a></li>
         				</ul>
         			</li>
         		</ul>
