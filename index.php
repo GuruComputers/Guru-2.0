@@ -22,7 +22,7 @@
   		<div class="container-fluid">
     		<div class="navbar-header">
       			<a class="navbar-brand" href="#">
-        			<img alt="Guru Computers Ltd" src="img/logo.png">
+        			<img alt="Guru Computers Ltd" src="img/logo.png" class="navbar-logo">
         		</a>
         	</div>
   		</div>
