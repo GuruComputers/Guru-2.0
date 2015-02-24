@@ -30,7 +30,7 @@
                         <!-- PRICE ITEM -->
                         <div class="panel price panel-red panel-centered">
                             <div class="panel-body text-center">
-                                <p class="lead" style="font-size:40px"><strong>From £5 / month</strong></p>
+                                <p class="lead" style="font-size:40px"><strong>From £5 a month</strong></p>
                             </div>
                             <ul class="list-group list-group-flush text-center">
                                 <li class="list-group-item"><i class="icon-ok text-danger"></i> Recommended for Personal use</li>
@@ -85,9 +85,9 @@
                     <div class="panel panel-info">
                         <div class="panel-heading">Pro Plan</div>
                         <!-- PRICE ITEM -->
-                        <div class="panel price panel-blue">
+                        <div class="panel price panel-blue panel-centered">
                             <div class="panel-body text-center">
-                                <p class="lead" style="font-size:40px"><strong>From £10 / month</strong></p>
+                                <p class="lead" style="font-size:40px"><strong>From £10 a month</strong></p>
                             </div>
                             <ul class="list-group list-group-flush text-center">
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Ideal for Small Business use</li>
@@ -126,6 +126,7 @@
                                             </td>
                                         </tr>
                                     </table>
+                                    <br />
                                     <input type="hidden" name="currency_code" value="GBP">
                                     <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
                                     <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
@@ -141,9 +142,9 @@
                     <div class="panel panel-info">
                         <div class="panel-heading">Business Plan</div>
                         <!-- PRICE ITEM -->
-                        <div class="panel price panel-green">
+                        <div class="panel price panel-green panel-centered">
                             <div class="panel-body text-center">
-                                <p class="lead" style="font-size:40px"><strong>From £15 / month</strong></p>
+                                <p class="lead" style="font-size:40px"><strong>From £15 a month</strong></p>
                             </div>
                             <ul class="list-group list-group-flush text-center">
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Ideal for Small / Medium Business use</li>
@@ -182,6 +183,7 @@
                                             </td>
                                         </tr>
                                     </table>
+                                    <br />
                                     <input type="hidden" name="currency_code" value="GBP">
                                     <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
                                     <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
@@ -197,9 +199,9 @@
                     <div class="panel panel-info">
                         <div class="panel-heading">Developer Plan</div>
                         <!-- PRICE ITEM -->
-                        <div class="panel price panel-grey">
+                        <div class="panel price panel-grey panel-centered">
                             <div class="panel-body text-center">
-                                <p class="lead" style="font-size:40px"><strong>From £20 / month</strong></p>
+                                <p class="lead" style="font-size:40px"><strong>From £20 a month</strong></p>
                             </div>
                             <ul class="list-group list-group-flush text-center">
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Ideal for Resellers</li>
@@ -238,6 +240,7 @@
                                             </td>
                                         </tr>
                                     </table>
+                                    <br />
                                     <input type="hidden" name="currency_code" value="GBP">
                                     <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
                                     <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
