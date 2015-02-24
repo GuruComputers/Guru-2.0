@@ -2,6 +2,20 @@
 	width: 100%;
 }
 
-.navbar-brand {
-    max-width: 50%;
+.navbar-logo {
+    max-height: 100%;
+}
+
+.navbar-toggle {
+   margin: 23px 0; 
+}
+
+.navbar-nav, .navbar-nav li, .navbar-nav li a {
+  height: 80px;
+  line-height: 80px;
+}
+
+.navbar-nav li a {
+  padding-top: 0;
+  padding-bottom:0;
 }
