@@ -95,7 +95,6 @@
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> 1GB Dedicated DDR3 RAM</li>
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> 2TB Premium Bandwidth</li>
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Choice of Linux OS</li>
-                                <li class="list-group-item"><i class="icon-ok text-info"></i> Software Update Support</li>
                             </ul>
                             <div class="panel-footer">
                                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -152,7 +151,6 @@
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> 2GB Dedicated DDR3 RAM</li>
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> 3TB Premium Bandwidth</li>
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Choice of Linux OS</li>
-                                <li class="list-group-item"><i class="icon-ok text-info"></i> Software Update Support</li>
                             </ul>
                             <div class="panel-footer">
                                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -209,7 +207,6 @@
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> 4GB Dedicated DDR3 RAM</li>
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> 4TB Premium Bandwidth</li>
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Choice of Linux OS</li>
-                                <li class="list-group-item"><i class="icon-ok text-info"></i> Software Update Support</li>
                             </ul>
                             <div class="panel-footer">
                                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
