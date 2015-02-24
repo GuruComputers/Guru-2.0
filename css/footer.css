@@ -13,6 +13,10 @@ body {
 	list-style: none;
 }
 
+.footer li {
+	display: inline-block;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
