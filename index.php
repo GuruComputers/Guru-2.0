@@ -81,8 +81,13 @@
         			</li>
 					<li><a href="http://www.gurucomputers.co.uk/shop" target="_blank">Shop</a></li>
 					<li><a href="http://www.gurucomputers.co.uk/blog" target="_blank">Blog</a></li>
-					<li><a href="#">Testimonials</a></li>
-
+					<li class="dropdown">
+        				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Testimonials <span class="caret"></span></a>
+        				<ul class="dropdown-menu" role="menu">
+        					<li><a href="#">View Testimonials</a></li>
+        					<li><a href="#">Add a Testimonials</a></li>
+        				</ul>
+        			</li>
         		</ul>
         		<form class="navbar-form navbar-right" role="search">
         			<div class="form-group">
