@@ -51,8 +51,16 @@
         			<li><a href="#">Mobile Phone Repair</a></li>
         			<li><a href="#">Website Development</a></li>
         			<li><a href="#">Website Hosting</a></li>
-        			<li><a href="#">Printing</a></li>
-        			<li><a href="#">CD Duplication & Printing</a></li>
+        			<li class="dropdown">
+        				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Printing <span class="caret"></span></a>
+        				<ul class="dropdown-menu" role="menu">
+        					<li><a href="#">CD Printing & Duplication</a></li>
+        					<li><a href="#">Flyer Printing</a></li>
+        					<li class="divider">Business card Printing</li>
+        					<li><a href="#">Letterhead Printing</a></li>
+        					<li class="divider">General Printing</li>
+        				</ul>
+        			</li>
 					<li><a href="#">Shop</a></li>
 					<li><a href="#">Blog</a></li>
 					<li><a href="#">Testimonials</a></li>
