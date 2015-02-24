@@ -9,3 +9,7 @@
 .navbar-logo {
     max-height: 100%;
 }
+
+.active {
+	border-radius: 0 0 10px 10px;
+}
