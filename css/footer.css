@@ -11,6 +11,9 @@ body {
 
 .footer ul {
 	list-style: none;
+}
+
+.footer li {
 	display: inline-block;
 }
 
