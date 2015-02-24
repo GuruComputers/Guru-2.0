@@ -65,7 +65,6 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <footer class="footer">
-      <div class="container">
         <center>
           <?php
             $start=2014;
