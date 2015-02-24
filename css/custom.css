@@ -32,6 +32,15 @@ nav {
 .collapsing ul li a:hover, .in ul li a:hover {color: #f1f1f1!important;}
 }
 
+@media (min-width: 768px){
+    .navbar-nav{
+        float:none;
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+    }
+}
+
 @media (min-width: 1414px) {
   .navbar-collapse {
     width: auto;
