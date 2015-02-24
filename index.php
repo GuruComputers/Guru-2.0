@@ -50,6 +50,15 @@
         			<li><a href="#">Guru Computers</a></li>
         			<li><a href="#">Guru Web Services</a></li>
         			<li><a href="#">Guru Print Services</a></li>
+        			<li><a href="#">Guru Computers</a></li>
+        			<li><a href="#">Guru Web Services</a></li>
+        			<li><a href="#">Guru Print Services</a></li>
+        			<li><a href="#">Guru Computers</a></li>
+        			<li><a href="#">Guru Web Services</a></li>
+        			<li><a href="#">Guru Print Services</a></li>
+        			<li><a href="#">Guru Computers</a></li>
+        			<li><a href="#">Guru Web Services</a></li>
+        			<li><a href="#">Guru Print Services</a></li>
         		</ul>
         		<form class="navbar-form navbar-right" role="search">
         			<div class="form-group">
