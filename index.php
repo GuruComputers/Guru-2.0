@@ -157,7 +157,7 @@
 						</div>
 						<div class="col-md-5 column">
 							<div class="panel panel-info">
-								<div class="panel-heading">Broken Screen?</div>
+								<div class="panel-heading">Whatever your printing needs, we've got you covered!</div>
 								<div class="panel-body">
 									<p>Since day zero, we have consistently developed our Printed Product range to provide the best choice, value, and technological opportunities for our customers. We have a wide and varied range of over 100 media types from CD and DVD to Flyers and Promotional Products.</p>
 									<p>We have direct relationships with some of the world’s leading manufacturers, and are UK distributors for a number of brands.</p>
