@@ -40,11 +40,11 @@
         					<li><a href="tel:07942759689"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Dave (07942 759689)</a></li>
         					<li><a href="tel:07942759739"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Neil (07942 759739)</a></li>
         					<li class="divider"></li>
-        					<li><a href="mailto:sales@gurucomputers.co.uk">Email Us</a></li>
+        					<li><a href="mailto:sales@gurucomputers.co.uk"><img src="./img/email.jpg" class="menu-icons">Email Us</a></li>
         					<li class="divider"></li>
-        					<li><a href="http:///www.twitter.com/gurucomputersuk" target="_blank">Follow us on Twitter</a></li>
+        					<li><a href="http:///www.twitter.com/gurucomputersuk" target="_blank"><img src="./img/twitter.png" class="menu-icons">Follow us on Twitter</a></li>
         					<li class="divider"></li>
-        					<li><a href="http:///www.facebook.com/gurucomputersuk" target="_blank">Add us on Facebook</a></li>
+        					<li><a href="http:///www.facebook.com/gurucomputersuk" target="_blank"><img src="./img/facebook.png" class="menu-icons">Add us on Facebook</a></li>
         				</ul>
         			</li>
         			<li><a href="#">Guru Computers</a></li>
