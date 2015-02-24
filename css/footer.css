@@ -15,3 +15,10 @@ body {
   height: 60px;
   background-color: #f5f5f5;
 }
+
+.icons {
+	height: 30px;
+	width: 30px;
+	margin-left: 10px;
+	margin-right: 5px;
+}
