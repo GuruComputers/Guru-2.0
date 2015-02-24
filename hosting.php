@@ -33,7 +33,7 @@
         	</div>
         	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         		<ul class="nav navbar-nav nav-pills">
-        			<li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
+        			<li><a href="#">Home <span class="sr-only">(current)</span></a></li>
         			<li><a href="#">About</a></li>
         			<li class="dropdown">
         				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact Us <span class="caret"></span></a>
@@ -57,7 +57,7 @@
         					<li><a href="#">Book Now</a></li>
         				</ul>
         			</li>
-        			<li class="dropdown">
+        			<li class="dropdown active">
         				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Websites <span class="caret"></span></a>
         				<ul class="dropdown-menu" role="menu">
         					<li><a href="#">Website Development</a></li>
@@ -95,19 +95,21 @@
     <div class="wrapper">
         <div class="container">
             <div class="row">
-                <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+                <div class="col-md-5">
                     <!-- PRICE ITEM -->
-                    <div class="panel price panel-red">
+                    <div class="panel price panel-red panel-centered">
                         <div class="panel-heading  text-center">
-                        <h3>PRO PLAN</h3>
+                        <h3>Entry Level Plan</h3>
                         </div>
                         <div class="panel-body text-center">
-                            <p class="lead" style="font-size:40px"><strong>$10 / month</strong></p>
+                            <p class="lead" style="font-size:40px"><strong>£5 / month</strong></p>
                         </div>
                         <ul class="list-group list-group-flush text-center">
-                            <li class="list-group-item"><i class="icon-ok text-danger"></i> Personal use</li>
-                            <li class="list-group-item"><i class="icon-ok text-danger"></i> Unlimited projects</li>
-                            <li class="list-group-item"><i class="icon-ok text-danger"></i> 27/7 support</li>
+                            <li class="list-group-item"><i class="icon-ok text-danger"></i> Recommended for Personal use</li>
+                            <li class="list-group-item"><i class="icon-ok text-danger"></i> 25GB RAID10 Protected Disk Space</li>
+                            <li class="list-group-item"><i class="icon-ok text-danger"></i> 512MB Dedicated DDR3 RAM</li>
+                            <li class="list-group-item"><i class="icon-ok text-danger"></i> 1TB Premium Bandwith</li>
+                            <li class="list-group-item"><i class="icon-ok text-danger"></i> Choice of Linux OS</li>
                         </ul>
                         <div class="panel-footer">
                             <a class="btn btn-lg btn-block btn-danger" href="#">BUY NOW!</a>
@@ -115,71 +117,76 @@
                     </div>
                     <!-- /PRICE ITEM -->
                 </div>
-                <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
-                    <!-- PRICE ITEM -->
-                    <div class="panel price panel-blue">
-                        <div class="panel-heading arrow_box text-center">
-                        <h3>DEV PLAN</h3>
+                <div class="col-md-5">
+                    <div class="panel panel-info">
+                        <div class="panel-heading">Pro Plan</div>
+                        <!-- PRICE ITEM -->
+                        <div class="panel price panel-blue">
+                            <div class="panel-body text-center">
+                                <p class="lead" style="font-size:40px"><strong>£10 / month</strong></p>
+                            </div>
+                            <ul class="list-group list-group-flush text-center">
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> Ideal for Small Business use</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> 50GB RAID10 SSD Cached Storage</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> 1GB Dedicated DDR3 RAM</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> 2TB Premium Bandwidth</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> Choice of Linux OS</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> 27/7 support</li>
+                            </ul>
+                            <div class="panel-footer">
+                                <a class="btn btn-lg btn-block btn-info" href="#">BUY NOW!</a>
+                            </div>
                         </div>
-                        <div class="panel-body text-center">
-                            <p class="lead" style="font-size:40px"><strong>$20 / month</strong></p>
-                        </div>
-                        <ul class="list-group list-group-flush text-center">
-                            <li class="list-group-item"><i class="icon-ok text-info"></i> Personal use</li>
-                            <li class="list-group-item"><i class="icon-ok text-info"></i> Unlimited projects</li>
-                            <li class="list-group-item"><i class="icon-ok text-info"></i> 27/7 support</li>
-                        </ul>
-                        <div class="panel-footer">
-                            <a class="btn btn-lg btn-block btn-info" href="#">BUY NOW!</a>
+                        <!-- /PRICE ITEM -->
+                    </div>
+                </div>
+
+                <div class="col-md-5">
+                    <div class="panel panel-info">
+                        <div class="panel-heading">Business Plan</div>
+                        <!-- PRICE ITEM -->
+                        <div class="panel price panel-green">
+                            <div class="panel-body text-center">
+                                <p class="lead" style="font-size:40px"><strong>£15 / month</strong></p>
+                            </div>
+                            <ul class="list-group list-group-flush text-center">
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> Ideal for Small / Medium Business use</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> 100GB RAID10 SSD Cached Storage</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> 2GB Dedicated DDR3 RAM</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> 3TB Premium Bandwidth</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> Choice of Linux OS</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> 27/7 support</li>
+                            </ul>
+                            <div class="panel-footer">
+                                <a class="btn btn-lg btn-block btn-success" href="#">BUY NOW!</a>
+                            </div>
                         </div>
                     </div>
                     <!-- /PRICE ITEM -->
                 </div>
-                <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
-                    <!-- PRICE ITEM -->
-                    <div class="panel price panel-green">
-                        <div class="panel-heading arrow_box text-center">
-                        <h3>FREE PLAN</h3>
-                        </div>
-                        <div class="panel-body text-center">
-                            <p class="lead" style="font-size:40px"><strong>$0 / month</strong></p>
-                        </div>
-                        <ul class="list-group list-group-flush text-center">
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> Personal use</li>
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> Unlimited projects</li>
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> 27/7 support</li>
-                        </ul>
-                        <div class="panel-footer">
-                            <a class="btn btn-lg btn-block btn-success" href="#">BUY NOW!</a>
-                        </div>
-                    </div>
-                    <!-- /PRICE ITEM -->
-                    
-                    
-                </div>
                 
-                <div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
-                
-                    <!-- PRICE ITEM -->
-                    <div class="panel price panel-grey">
-                        <div class="panel-heading arrow_box text-center">
-                        <h3>FREE PLAN</h3>
+                <div class="col-md-5">
+                    <div class="panel panel-info">
+                        <div class="panel-heading">Developer Plan</div>
+                        <!-- PRICE ITEM -->
+                        <div class="panel price panel-grey">
+                            <div class="panel-body text-center">
+                                <p class="lead" style="font-size:40px"><strong>£20 / month</strong></p>
+                            </div>
+                            <ul class="list-group list-group-flush text-center">
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> Ideal for Resellers</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> 150GB RAID10 SSD Cached Storage</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> 4GB Dedicated DDR3 RAM</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> 4TB Premium Bandwidth</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> Choice of Linux OS</li>
+                                <li class="list-group-item"><i class="icon-ok text-info"></i> 27/7 support</li>
+                            </ul>
+                            <div class="panel-footer">
+                                <a class="btn btn-lg btn-block btn-primary" href="#">BUY NOW!</a>
+                            </div>
                         </div>
-                        <div class="panel-body text-center">
-                            <p class="lead" style="font-size:40px"><strong>$0 / month</strong></p>
-                        </div>
-                        <ul class="list-group list-group-flush text-center">
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> Personal use</li>
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> Unlimited projects</li>
-                            <li class="list-group-item"><i class="icon-ok text-success"></i> 27/7 support</li>
-                        </ul>
-                        <div class="panel-footer">
-                            <a class="btn btn-lg btn-block btn-primary" href="#">BUY NOW!</a>
-                        </div>
-                    </div>
                     <!-- /PRICE ITEM -->
-                    
-                    
+                    </div>
                 </div>
             </div>
         </div>

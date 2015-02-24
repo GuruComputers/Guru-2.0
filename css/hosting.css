@@ -2,6 +2,11 @@
 @import url("http://fonts.googleapis.com/css?family=Roboto:400,300,700italic,700,500&subset=latin,latin-ext");
 
 /* COMMON PRICING STYLES */
+.panel-centered{
+    float: none;
+    margin: 0 auto;
+}
+
 .panel.price,
 .panel.price>.panel-heading{
 	border-radius:0px;
