@@ -37,8 +37,8 @@
         			<li class="dropdown">
         				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact Us <span class="caret"></span></a>
         				<ul class="dropdown-menu" role="menu">
-        					<li><a href="#">Phone Dave</a></li>
-        					<li><a href="#">Phone Neil</a></li>
+        					<li><a href="tel:07942759689">Phone Dave</a></li>
+        					<li><a href="tel:07942759739">Phone Neil</a></li>
         					<li class="divider"></li>
         					<li><a href="#">Email Us</a></li>
         					<li class="divider"></li>
