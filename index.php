@@ -47,10 +47,24 @@
         					<li><a href="http:///www.facebook.com/gurucomputersuk" target="_blank"><img src="./img/facebook.png" class="menu-icons">Add us on Facebook</a></li>
         				</ul>
         			</li>
-        			<li><a href="#">Computer Repairs</a></li>
-        			<li><a href="#">Mobile Phone Repair</a></li>
-        			<li><a href="#">Website Development</a></li>
-        			<li><a href="#">Website Hosting</a></li>
+        			<li class="dropdown">
+        				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Repairs <span class="caret"></span></a>
+        				<ul class="dropdown-menu" role="menu">
+        					<li><a href="#">Computer Repairs</a></li>
+        					<li><a href="#">Mobile Repairs</a></li>
+        					<li class="divider"></li>
+        					<li><a href="#">Book Now</a></li>
+        				</ul>
+        			</li>
+        			<li class="dropdown">
+        				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Websites <span class="caret"></span></a>
+        				<ul class="dropdown-menu" role="menu">
+        					<li><a href="#">Website Development</a></li>
+        					<li><a href="#">Website Hosting</a></li>
+        					<li class="divider"></li>
+        					<li><a href="#">Our Portfolio</a></li>
+        				</ul>
+        			</li>
         			<li class="dropdown">
         				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Printing <span class="caret"></span></a>
         				<ul class="dropdown-menu" role="menu">
@@ -61,6 +75,8 @@
         					<li><a href="#">Letterheads</a></li>
         					<li class="divider"></li>
         					<li><a href="#">General Printing</a></li>
+        					<li class="divider"></li>
+        					<li><a href="#">Our Portfolio</a></li>
         				</ul>
         			</li>
 					<li><a href="http://www.gurucomputers.co.uk/shop" target="_blank">Shop</a></li>
