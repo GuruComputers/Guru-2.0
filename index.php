@@ -17,7 +17,10 @@
     <![endif]-->
   </head>
   <body>
-  	<?php include "nav.php"; ?>
+  	<?php 
+  		$page = "home";
+  		include "nav.php"; 
+  	?>
     <div class="wrapper">
   		<div class="container">
   			<div class="row clearfix">

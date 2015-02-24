@@ -1,3 +1,4 @@
+<?php echo $page; ?>
 <nav class="navbar navbar-default">
         <div class="container-fluid">
             <div class="navbar-header">
@@ -7,15 +8,29 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="index.php">
                     <img alt="Guru Computers Ltd" src="img/logo.png" class="navbar-logo">
                 </a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav nav-pills">
-                    <li><a href="#">Home <span class="sr-only">(current)</span></a></li>
-                    <li><a href="#">About</a></li>
-                    <li class="dropdown">
+                    <?php 
+                        if ($page == "home"){
+                          echo '<li class="active"><a href="index.php">Home <span class="sr-only">(current)</span></a></li>';
+                     } else {
+                          echo '<li><a href="index.php">Home <span class="sr-only">(current)</span></a></li>';
+                     }
+                         if ($page == "about"){
+                          echo '<li class="active"><a href="#">About</a></li>';
+                     } else {
+                          echo '<li><a href="#">About</a></li>';
+                     }
+                          if ($page == "contact"){
+                          echo '<li class="dropdown active">';
+                     } else {
+                          echo '<li class="dropdown">';
+                     }
+                     ?>
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact Us <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             <li><a href="tel:07942759689"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Dave (07942 759689)</a></li>
@@ -28,7 +43,13 @@
                             <li><a href="http:///www.facebook.com/gurucomputersuk" target="_blank"><img src="./img/facebook.png" class="menu-icons">Add us on Facebook</a></li>
                         </ul>
                     </li>
-                    <li class="dropdown">
+                    <?php 
+                        if ($page == "repairs"){
+                          echo '<li class="dropdown active">';
+                     } else {
+                          echo '<li class="dropdown">';
+                     }
+                     ?>
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Repairs <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             <li><a href="#">Computer Repairs</a></li>
@@ -37,16 +58,28 @@
                             <li><a href="#">Book Now</a></li>
                         </ul>
                     </li>
-                    <li class="dropdown">
+                    <?php 
+                        if ($page == "websites"){
+                          echo '<li class="dropdown active">';
+                     } else {
+                          echo '<li class="dropdown">';
+                     }
+                     ?>
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Websites <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             <li><a href="#">Website Development</a></li>
-                            <li><a href="#">Website Hosting</a></li>
+                            <li><a href="hosting.php">Website Hosting</a></li>
                             <li class="divider"></li>
                             <li><a href="#">Our Portfolio</a></li>
                         </ul>
                     </li>
-                    <li class="dropdown active">
+                    <?php 
+                        if ($page == "printing"){
+                          echo '<li class="dropdown active">';
+                     } else {
+                          echo '<li class="dropdown">';
+                     }
+                     ?>
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Printing <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             <li><a href="cd.php">CD Printing & Duplication</a></li>
@@ -60,9 +93,23 @@
                             <li><a href="#">Our Portfolio</a></li>
                         </ul>
                     </li>
-                    <li><a href="http://www.gurucomputers.co.uk/shop" target="_blank">Shop</a></li>
-                    <li><a href="http://www.gurucomputers.co.uk/blog" target="_blank">Blog</a></li>
-                    <li class="dropdown">
+                    <?php 
+                        if ($page == "shop"){
+                          echo '<li class="active"><a href="http://www.gurucomputers.co.uk/shop" target="_blank">Shop</a></li>';
+                     } else {
+                          echo '<li><a href="http://www.gurucomputers.co.uk/shop" target="_blank">Shop</a></li>';
+                     }
+                     if ($page == "blog"){
+                          echo '<li class="active"><a href="http://www.gurucomputers.co.uk/blog" target="_blank">Blog</a></li>';
+                     } else {
+                          echo '<li><a href="http://www.gurucomputers.co.uk/blog" target="_blank">Blog</a></li>';
+                     }
+                     if ($page == "testermonials"){
+                          echo '<li class="dropdown active">';
+                     } else {
+                          echo '<li class="dropdown">';
+                     }
+                     ?>
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Testimonials <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             <li><a href="#">View Testimonials</a></li>

@@ -17,7 +17,10 @@
     <![endif]-->
   </head>
   <body>
-    <?php include "nav.php"; ?>
+    <?php 
+        $page = "printing"; 
+        include "nav.php"; 
+    ?>
 
     <div class="wrapper">
         <div class="container">
@@ -28,17 +31,15 @@
                         <div class="panel panel-info">
                             <div class="panel-heading">Need some CD's printed?</div>
                             <div class="panel-body">
-                                <p>Our In-House CD printing is what you need.</P>
-                                <p>We are able to print your CD's on a range of full face printable CD's.</p>
-                                <p>Due to the CD's being printed in-house we are able to get the fastest turn around possible.</p>
-                                <p>Need help in the design?    That's no problem our professional team are able to tweak your graphics to enable the best results.</p>
-                                <br/>
-                                <ul>
-                                    <li>HTML5</li>
-                                    <li>CSS3</li>
-                                    <li>PHP</li>
-                                    <li>Javascript</li>
-                                </ul>
+                                    <p>Our In-House CD printing is what you need.</P>
+                                    <p>We are able to print your CD's on a range of full face printable CD's.</p>
+                                    <p>Perfect for promotional CD's to send off to Record Labels, Radio Station's, Press.</p>
+                                    <p>Due to the CD's being printed in-house we are able to get the fastest turn around possible.</p>
+                                    <p>Need help in the design? That's no problem our professional team are able to tweak your graphics to enable the best results.</p>
+                                    <br/>
+                                <center>
+                                    <p><h3>Priced at just 63p excluding VAT per CD / 75p including VAT</h3></p>
+                                </center>
                             </div>
                         </div>
                     </div>
