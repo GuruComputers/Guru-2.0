@@ -63,5 +63,14 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
+    <footer class="footer">
+      <div class="container">
+        <a href="/cdn-cgi/l/email-protection#1b686e6b6b74696f5b7c6e696e7874766b6e6f7e6968357874356e70"><img src="./img/email.jpg" class="icons">Email Us</a>
+        <a href="https://www.youtube.com/user/gurucomputersuk" target="_blank"><img src="./img/youtube.png" class="icons">Guru Channel</a>
+        <a href="https://www.facebook.com/GuruComputersUK" target="_blank"><img src="./img/facebook.png" class="icons">Guru Facebook</a>
+        <a href="https://twitter.com/GuruComputersUK" target="_blank"><img src="./img/twitter.png" class="icons">Guru Twitter</a>
+      </div>
+    </footer>
+
   </body>
 </html>
