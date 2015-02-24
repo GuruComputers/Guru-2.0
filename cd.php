@@ -59,7 +59,7 @@
                             </div>
                         </div>
                     </div>
-
+                    
                     <div class="col-md-20 column">
                         <div class="panel panel-info">
                             <div class="panel-heading">Guru Computers SPECIAL OFFER</div>
