@@ -2,6 +2,6 @@
 	width: 100%;
 }
 
-.nav-logo {
-	height: 100%;
+.navbar-brand {
+    max-width: 50%;
 }
