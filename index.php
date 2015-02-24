@@ -64,9 +64,20 @@
     		<h1>Welcome to Guru Computers</h1> 
     		<p>This page will grow as we add more and more components from Bootstrap...</p>
   		</div>
-  		<p>This is another paragraph.</p> 
-  		<p>This is a paragraph.</p> 
-  		<p>This is another paragraph.</p>
+  		<div class="container">
+  			<div class="row clearfix">
+				<div class="col-md-12 column">
+					<div class="row clearfix">
+						<div class="col-md-4 column">
+						</div>
+						<div class="col-md-4 column">
+						</div>
+						<div class="col-md-4 column">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
   	</div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
