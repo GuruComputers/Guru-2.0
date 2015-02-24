@@ -168,7 +168,40 @@
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Software Update Support</li>
                             </ul>
                             <div class="panel-footer">
-                                <a class="btn btn-lg btn-block btn-info" href="#">BUY NOW!</a>
+                                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                <center>
+                                    <input type="hidden" name="cmd" value="_s-xclick">
+                                    <input type="hidden" name="hosted_button_id" value="EB4ES56EH9SPA">
+                                    <table>
+                                        <tr>
+                                            <td style="color: black">
+                                                <input type="hidden" name="on0" value="Management Options">Management Options
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="color: black">
+                                                <select name="os0">
+                                                    <option value="Managed">Managed : £15.00 GBP - monthly</option>
+                                                    <option value="Unmanaged">Unmanaged : £10.00 GBP - monthly</option>
+                                                </select> 
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="color: black">
+                                                <input type="hidden" name="on1" value="Domain Name">Domain Name
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="color: black">
+                                                <input type="text" name="os1" maxlength="200">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <input type="hidden" name="currency_code" value="GBP">
+                                    <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+                                    <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+                                </center>
+                                </form>
                             </div>
                         </div>
                         <!-- /PRICE ITEM -->
@@ -192,7 +225,40 @@
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Software Update Support</li>
                             </ul>
                             <div class="panel-footer">
-                                <a class="btn btn-lg btn-block btn-success" href="#">BUY NOW!</a>
+                                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                <center>
+                                    <input type="hidden" name="cmd" value="_s-xclick">
+                                    <input type="hidden" name="hosted_button_id" value="NXU9MU3JCL6BG">
+                                    <table>
+                                        <tr>
+                                            <td style="color: black">
+                                                <input type="hidden" name="on0" value="Management Options">Management Options
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="color: black">
+                                                <select name="os0">
+                                                    <option value="Managed">Managed : £20.00 GBP - monthly</option>
+                                                    <option value="Unmanaged">Unmanaged : £15.00 GBP - monthly</option>
+                                                </select> 
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="color: black">
+                                                <input type="hidden" name="on1" value="Domain Name">Domain Name
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="color: black">
+                                                <input type="text" name="os1" maxlength="200">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <input type="hidden" name="currency_code" value="GBP">
+                                    <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+                                    <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+                                </center>
+                                </form>
                             </div>
                         </div>
                     </div>
@@ -216,7 +282,40 @@
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Software Update Support</li>
                             </ul>
                             <div class="panel-footer">
-                                <a class="btn btn-lg btn-block btn-primary" href="#">BUY NOW!</a>
+                                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                <center>
+                                    <input type="hidden" name="cmd" value="_s-xclick">
+                                    <input type="hidden" name="hosted_button_id" value="DP34U6BUEAHGS">
+                                    <table>
+                                        <tr>
+                                            <td style="color: black">
+                                                <input type="hidden" name="on0" value="Management Options">Management Options
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="color: black">
+                                                <select name="os0">
+                                                    <option value="Managed">Managed : £25.00 GBP - monthly</option>
+                                                    <option value="Unmanaged">Unmanaged : £20.00 GBP - monthly</option>
+                                                </select>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="color: black">
+                                                <input type="hidden" name="on1" value="Domain Name">Domain Name
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="color: black">
+                                                <input type="text" name="os1" maxlength="200">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <input type="hidden" name="currency_code" value="GBP">
+                                    <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+                                    <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+                                </center>
+                                </form>
                             </div>
                         </div>
                     <!-- /PRICE ITEM -->
