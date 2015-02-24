@@ -2,7 +2,7 @@
 	width: 100%;
 }
 
-.navbar {
+.navbar, .navbar-brand {
 	height: 100px;
 }
 
