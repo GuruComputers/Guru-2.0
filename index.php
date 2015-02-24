@@ -33,7 +33,7 @@
         	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         		<ul class="nav navbar-nav nav-pills">
         			<li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-        			<li><a href="#">Aboutk</a></li>
+        			<li><a href="#">About</a></li>
         			<li class="dropdown">
         				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Contact Us <span class="caret"></span></a>
         				<ul class="dropdown-menu" role="menu">
@@ -47,6 +47,9 @@
         					<li><a href="http:///www.facebook.com/gurucomputersuk" target="_blank">Add us on Facebook</a></li>
         				</ul>
         			</li>
+        			<li><a href="#">Guru Computers</a></li>
+        			<li><a href="#">Guru Web Services</a></li>
+        			<li><a href="#">Guru Print Services</a></li>
         		</ul>
         		<form class="navbar-form navbar-right" role="search">
         			<div class="form-group">
