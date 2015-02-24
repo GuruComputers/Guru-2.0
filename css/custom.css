@@ -7,6 +7,10 @@ body {
 	padding: 1%;
 }
 
+nav {
+	z-index: 10000;
+}
+
 .navbar, .navbar-brand {
 	height: 100px;
 }

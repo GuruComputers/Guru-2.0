@@ -47,18 +47,15 @@
         					<li><a href="http:///www.facebook.com/gurucomputersuk" target="_blank"><img src="./img/facebook.png" class="menu-icons">Add us on Facebook</a></li>
         				</ul>
         			</li>
-        			<li><a href="#">Guru Computers</a></li>
-        			<li><a href="#">Guru Web Services</a></li>
-        			<li><a href="#">Guru Print Services</a></li>
-        			<li><a href="#">Guru Computers</a></li>
-        			<li><a href="#">Guru Web Services</a></li>
-        			<li><a href="#">Guru Print Services</a></li>
-        			<li><a href="#">Guru Computers</a></li>
-        			<li><a href="#">Guru Web Services</a></li>
-        			<li><a href="#">Guru Print Services</a></li>
-        			<li><a href="#">Guru Computers</a></li>
-        			<li><a href="#">Guru Web Services</a></li>
-        			<li><a href="#">Guru Print Services</a></li>
+        			<li><a href="#">Computer Repairs</a></li>
+        			<li><a href="#">Mobile Phone Repair</a></li>
+        			<li><a href="#">Website Development</a></li>
+        			<li><a href="#">Website Hosting</a></li>
+        			<li><a href="#">Stationary Printing</a></li>
+        			<li><a href="#">CD Duplication & Printing</a></li>
+					<li><a href="#">Shop</a></li>
+					<li><a href="#">Blog</a></li>
+
         		</ul>
         		<form class="navbar-form navbar-right" role="search">
         			<div class="form-group">
