@@ -98,38 +98,31 @@
         	</div>
 	</nav>
     <div class="wrapper">
-    	<div class="jumbotron">
-    		<h1>Welcome to Guru Computers</h1> 
-    		<p>This page will grow as we add more and more components from Bootstrap...</p>
-  		</div>
   		<div class="container">
   			<div class="row clearfix">
-				<div class="col-md-12 column">
+				<div class="col-md-20 column">
 					<div class="row clearfix">
-						<div class="col-md-4 column">
-							Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-
-Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-
-Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
-
-Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-
-Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi.
-
-Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.
-
-Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus.
-
-Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+						<div class="col-md-5 column">
+							<div class="panel panel-default">
+								<div class="panel-heading">Need a New Website?</div>
+								<div class="panel-body">
+									<p>Our In-House Team handle all regular aspects of designing, hand-coding and hosting your website so you can relax knowing your Web Presence is in safe hands!</P>
+									<p>We are able to offer Virtual Private Servers from £10 a month, fully managed by our in-house engineers. We can also provide MySQL and Email Hosting within that price. This means you can have a single point of contact for your whole Web Presence, leaving you more time to run your business without the need to get involved with the technical aspects of your Website.</p>
+									<p>Our Websites use the following Web Technologies:-</p>
+									<ul>
+										<li>HTML5</li>
+										<li>CSS3</li>
+										<li>PHP</li>
+										<li>Javascript</li>
+									</ul>
+								</div>
+							</div>
 						</div>
-						<div class="col-md-4 column">
+						<div class="col-md-5 column">
 						</div>
-						<div class="col-md-4 column">
+						<div class="col-md-5 column">
+						</div>
+						<div class="col-md-5 column">
 						</div>
 					</div>
 				</div>
