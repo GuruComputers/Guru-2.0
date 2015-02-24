@@ -40,15 +40,15 @@
         					<li><a href="tel:07942759689">Phone Dave (07942 759689)</a></li>
         					<li><a href="tel:07942759739">Phone Neil (07942 759739)</a></li>
         					<li class="divider"></li>
-        					<li><a href="#">Email Us</a></li>
+        					<li><a href="mailto:sales@gurucomputers.co.uk">Email Us</a></li>
         					<li class="divider"></li>
-        					<li><a href="#">Follow us on Twitter</a></li>
+        					<li><a href="http:///www.twitter.com/gurucomputersuk" target="_blank">Follow us on Twitter</a></li>
         					<li class="divider"></li>
-        					<li><a href="#">Add us on Facebook</a></li>
+        					<li><a href="http:///www.facebook.com/gurucomputersuk" target="_blank">Add us on Facebook</a></li>
         				</ul>
         			</li>
         		</ul>
-        		<form class="navbar-form navbar-left" role="search">
+        		<form class="navbar-form navbar-right" role="search">
         			<div class="form-group">
         				<input type="text" class="form-control" placeholder="Search">
         			</div>
