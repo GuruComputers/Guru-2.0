@@ -100,7 +100,7 @@
                         <!-- PRICE ITEM -->
                         <div class="panel price panel-red panel-centered">
                             <div class="panel-body text-center">
-                                <p class="lead" style="font-size:40px"><strong>£5 / month</strong></p>
+                                <p class="lead" style="font-size:40px"><strong>From £5 / month</strong></p>
                             </div>
                             <ul class="list-group list-group-flush text-center">
                                 <li class="list-group-item"><i class="icon-ok text-danger"></i> Recommended for Personal use</li>
@@ -157,7 +157,7 @@
                         <!-- PRICE ITEM -->
                         <div class="panel price panel-blue">
                             <div class="panel-body text-center">
-                                <p class="lead" style="font-size:40px"><strong>£10 / month</strong></p>
+                                <p class="lead" style="font-size:40px"><strong>From £10 / month</strong></p>
                             </div>
                             <ul class="list-group list-group-flush text-center">
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Ideal for Small Business use</li>
@@ -214,7 +214,7 @@
                         <!-- PRICE ITEM -->
                         <div class="panel price panel-green">
                             <div class="panel-body text-center">
-                                <p class="lead" style="font-size:40px"><strong>£15 / month</strong></p>
+                                <p class="lead" style="font-size:40px"><strong>From £15 / month</strong></p>
                             </div>
                             <ul class="list-group list-group-flush text-center">
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Ideal for Small / Medium Business use</li>
@@ -271,7 +271,7 @@
                         <!-- PRICE ITEM -->
                         <div class="panel price panel-grey">
                             <div class="panel-body text-center">
-                                <p class="lead" style="font-size:40px"><strong>£20 / month</strong></p>
+                                <p class="lead" style="font-size:40px"><strong>From £20 / month</strong></p>
                             </div>
                             <ul class="list-group list-group-flush text-center">
                                 <li class="list-group-item"><i class="icon-ok text-info"></i> Ideal for Resellers</li>
