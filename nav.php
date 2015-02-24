@@ -83,7 +83,7 @@
                         <ul class="dropdown-menu" role="menu">
                             <li><a href="cd.php">CD Printing & Duplication</a></li>
                             <li class="divider"></li>
-                            <li><a href="#">Flyers</a></li>
+                            <li><a href="flyers.php">Flyers</a></li>
                             <li><a href="#">Business Cards</a></li>
                             <li><a href="#">Letterheads</a></li>
                             <li class="divider"></li>
