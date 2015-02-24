@@ -29,7 +29,7 @@
                    
                     <div class="col-md-20 column">
                         <div class="panel panel-info">
-                            <div class="panel-heading">Flyers</div>
+                            <div class="panel-heading">Flyers & Leaflets</div>
                             <div class="panel-body">
                                 <p>Have a need for some flyers at competative prices?</p>
                                 <p>You need look no further, here at Guru Computers </p>
