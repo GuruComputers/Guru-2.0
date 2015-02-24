@@ -51,7 +51,7 @@
         			<li><a href="#">Mobile Phone Repair</a></li>
         			<li><a href="#">Website Development</a></li>
         			<li><a href="#">Website Hosting</a></li>
-        			<li><a href="#">Stationary Printing</a></li>
+        			<li><a href="#">Printing</a></li>
         			<li><a href="#">CD Duplication & Printing</a></li>
 					<li><a href="#">Shop</a></li>
 					<li><a href="#">Blog</a></li>
