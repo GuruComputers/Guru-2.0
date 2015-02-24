@@ -63,8 +63,8 @@
         					<li><a href="#">General Printing</a></li>
         				</ul>
         			</li>
-					<li><a href="#">Shop</a></li>
-					<li><a href="#">Blog</a></li>
+					<li><a href="http://www.gurucomputers.co.uk/shop" target="_blank">Shop</a></li>
+					<li><a href="http://www.gurucomputers.co.uk/blog" target="_blank">Blog</a></li>
 					<li><a href="#">Testimonials</a></li>
 
         		</ul>
