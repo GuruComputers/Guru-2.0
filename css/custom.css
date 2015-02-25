@@ -83,8 +83,19 @@ CD styles
 .cd1,
 .cd2,
 .cd3 {
-  width: 50%;
+  width: 49%;
   height: auto;
+  padding: none;
+}
+
+.cd1,
+.cd2 {
+  display: inline-block;
+}
+
+.cd3 {
+  margin-left: 25%;
+  margin-top: -30%;
 }
 
 /****************************************

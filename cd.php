@@ -56,6 +56,8 @@
                             <div class="panel-heading">Some examples of our work.</div>
                             <div class="panel-body">
                                 <img src="img/cds/1.png" class="cd1">
+                                <img src="img/cds/2.png" class="cd2">
+                                <img src="img/cds/3.png" class="cd3">
                             </div>
                         </div>
                     </div>
