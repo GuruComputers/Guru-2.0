@@ -31,6 +31,7 @@
                         <p>In Today's Technology Advanced World, people are more and more likely to access your website on Phones, Tablets and other Portable Devices.</p>
                         <p>Having a website that dynamically adjusts the user's experience to match their device, your showing your Brand's Attention to Detail.</p>
                         <p>Here at Guru Computers Ltd, we operate on a Mobile-First Approach. This means your website is fully optimized for Mobile Phones, and will look at home on all devices!</p>
+                        <img src="img/responsive.png" alt="Responsive Website Design">
                     </div>
                 </div>
             </div>
