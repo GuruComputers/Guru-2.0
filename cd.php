@@ -53,16 +53,9 @@
 
                     <div class="col-md-10 column">
                         <div class="panel panel-info">
-                            <div class="panel-heading">Need some CD's burnt?</div>
+                            <div class="panel-heading">Some examples of our work.</div>
                             <div class="panel-body">
-                                <p>Our In-House CD burning is what you need.</p>
-                                <p>Need the audio normalised? That's not a problem for our professionals.</p>
-                                <p>What about CD text? That is also not a problem.</p>
-                                <p>We are fast and reliable.</p>
-                                <br/>
-                                <center>
-                                    <p><h3>Priced at just 63p excluding VAT per CD / 75p including VAT</h3></p>
-                                </center>
+                         
                             </div>
                         </div>
                     </div>
