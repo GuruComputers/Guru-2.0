@@ -103,7 +103,7 @@
                      } else {
                           echo '<li><a href="http://www.gurucomputers.co.uk/blog" target="_blank">Blog</a></li>';
                      }
-                     if ($page == "testemonials"){
+                     if ($page == "testimonials"){
                           echo '<li class="dropdown active">';
                      } else {
                           echo '<li class="dropdown">';
