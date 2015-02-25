@@ -209,7 +209,7 @@ footer styles
 
 #calendar #week {
 	color: #000000; 
-	background: #d7d2d2 url(../img/music_calendar_null.gif) repeat-x; 
+	background: #d7d2d2 url(../img/book/music_calendar_null.gif) repeat-x; 
 	height: 45px
 }
 
@@ -330,7 +330,7 @@ form {
 }
 
 #book {
-	background: transparent url(../img/book.png) no-repeat; 
+	background: transparent url(../img/book/book.png) no-repeat; 
 	width: 135px; 
 	height: 32px; 
 	border: none; 
@@ -338,12 +338,12 @@ form {
 }
 
 #book:hover {
-	background: transparent url(../img/book_mo.png);
+	background: transparent url(../img/book/book_mo.png);
 }
 
 #selected_date {
 	width: 288px; 
-	height: 20px; 
+	height: 30px; 
 	background-color: #dfeefa; 
 	border:#4085d1 1px solid; 
 	font-family: arial; 
@@ -373,13 +373,13 @@ form {
     color: #D8000C;
     border:#cf0023 1px solid;
     background-color: #FFBABA;
-    background-image: url('../img/knobs/error.png');
+    background-image: url('../img/book/knobs/error.png');
 }
 
 .info, .info a {
     color: #00529B;
     border:#294b99 1px solid;
-    background-image:url('../img/knobs/info.png');
+    background-image:url('../img/book/knobs/info.png');
     background-color:#c1e4f8;
 }
 
@@ -387,6 +387,6 @@ form {
     color: #4F8A10;
     border:#528f11 1px solid;
     background-color: #DFF2BF;
-    background-image:url('../img/knobs/success.png');
+    background-image:url('../img/book/knobs/success.png');
 }
 

@@ -32,6 +32,11 @@ $forward = strtotime("+1 month", $selected_date);
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <script language="javascript" type="text/javascript">
+    /* Preload book now image */
+    sub_button = new Image(); 
+    sub_button.src = "img/book/book_mo.png";
+    </script>
   </head>
   <body>
     <?php 
@@ -43,13 +48,15 @@ $forward = strtotime("+1 month", $selected_date);
             <div class="col-md-20">
                 <div class="panel panel-info">
                     <div class="panel-heading">Book a Repair</div>
-                        <?php
-                            if($_SERVER['REQUEST_METHOD'] == 'post') {
-                                $calendar->after_post($month, $day, $year);
-                            }
-                            // Call calendar function
-                            $calendar->make_calendar($selected_date, $first_day, $back, $forward, $day, $month, $year);
-                        ?>
+                        <div class="panel-body text-centered">
+                            <?php
+                                if($_SERVER['REQUEST_METHOD'] == 'POST') {
+                                    $calendar->after_post($month, $day, $year);
+                                }
+                                // Call calendar function
+                                $calendar->make_calendar($selected_date, $first_day, $back, $forward, $day, $month, $year);
+                            ?>
+                        </div>
                     </div>
                 </div>
             </div>
