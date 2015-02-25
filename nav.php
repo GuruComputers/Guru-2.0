@@ -51,7 +51,7 @@
                      ?>
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Repairs <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
-                            <li><a href="#">Computer Repairs</a></li>
+                            <li><a href="comprepairs">Computer Repairs</a></li>
                             <li><a href="#">Mobile Repairs</a></li>
                             <li class="divider"></li>
                             <li><a href="#">Book Now</a></li>
@@ -103,7 +103,7 @@
                      } else {
                           echo '<li><a href="http://www.gurucomputers.co.uk/blog" target="_blank">Blog</a></li>';
                      }
-                     if ($page == "testermonials"){
+                     if ($page == "testemonials"){
                           echo '<li class="dropdown active">';
                      } else {
                           echo '<li class="dropdown">';
