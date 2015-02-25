@@ -46,7 +46,7 @@
                                     <p><h3>Priced at just 63p excluding VAT per CD / 75p including VAT</h3></p>
                                 </center>
                                 <p><b>Please note due to the nature of the product the client normally collects or we hand deliver within a 10 mile radius.</b></p>
-                                <p>Postage can be arranged at cost price if required. Please email sales@gurucomputers.co.uk for more details.</p>
+                                <p>Postage can be arranged at cost price if required. Please email <a href="mailto:sales@gurucomputers.co.uk">sales@gurucomputers.co.uk</a> for more details.</p>
                             </div>
                         </div>
                     </div>
