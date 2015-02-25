@@ -55,7 +55,7 @@
                         <div class="panel panel-info">
                             <div class="panel-heading">Some examples of our work.</div>
                             <div class="panel-body">
-                         
+                                <img src="img/cds/1.png" class="cd1">
                             </div>
                         </div>
                     </div>
