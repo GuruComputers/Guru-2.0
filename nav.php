@@ -54,7 +54,7 @@
                             <li><a href="comprepairs.php">Computer Repairs</a></li>
                             <li><a href="#">Mobile Repairs</a></li>
                             <li class="divider"></li>
-                            <li><a href="#">Book Now</a></li>
+                            <li><a href="book.php">Book Now</a></li>
                         </ul>
                     </li>
                     <?php 
