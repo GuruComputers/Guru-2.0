@@ -24,18 +24,34 @@
     <div class="wrapper">
         <div class="row">
             <div class="col-md-20">
-                <ul id="portfolio">
-                    <?php
-                        $files = scandir('img/web/'); 
-                        foreach ($files as $file){
-                            if($file != '.' && $file != '..'){
-                                $withoutExt = preg_replace('/\\.[^.\\s]{3,4}$/', '', $file);
-                                echo '<li class="portfolio_item"><a href="http://www.'.$withoutExt.'" target="_blank">'."\n".'<img src="img/web/'.$file.'" alt="Portfolio Image">'."\n";
-                                echo '<h2>www.'.$withoutExt.'</h2></a></li>'."\n";
-                            }
+                <div class="panel panel-info">
+                    <div class="panel-heading">We are confident you will love our websites!</div>
+                    <div class="panel-body text-center">
+                        <h2>A sample of some of our works</h2>
+                        <p>Many companies claim to be Website Developers when in fact all they do is use someone else's template and a CMS System</p>
+                        <p>Here at Guru Computers Ltd, we believe that a website should be unique, just like you are!</p>
+                        <p>That's why we avoid using other's templates, and all the websites below have been coded by our own hands and lots of coffee!</p>
+                        <img src="img/responsive.png" alt="Responsive Website Design">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-20">
+                <?php
+                    $files = scandir('img/web/'); 
+                    foreach ($files as $file){
+                        if($file != '.' && $file != '..'){
+                            $withoutExt = preg_replace('/\\.[^.\\s]{3,4}$/', '', $file);
+                            echo '<div class="col-md-5">'."\n";
+                            echo '<div class="panel panel-info">'."\n";
+                            echo '<div class="panel-heading"><h2>www.'.$withoutExt.'</h2></div>'."\n";
+                            echo '<div class="panel-body text-center">'."\n";
+                            echo '<a href="http://www.'.$withoutExt.'" target="_blank">'."\n".'<img src="img/web/'.$file.'" alt="Portfolio Image" class="img-responsive"></a>'."\n";
+                            echo '</div></div></div>';
                         }
-                    ?>
-                </ul>   
+                    }
+                ?>
             </div>
         </div>
   	</div>
