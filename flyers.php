@@ -21,6 +21,11 @@
         $page = "printing"; 
         include "nav.php"; 
         $flyers=count(glob("img/flyers/*",GLOB_BRACE));
+        $pick1=rand(1,$flyers);
+        $pick2=rand(1,$flyers);
+        while ($pick2==$pick1) {
+            $pick2=rand(1,$flyers);
+        }
     ?>
 
     <div class="wrapper">
@@ -59,7 +64,10 @@
                         <div class="panel panel-info">
                             <div class="panel-heading">Examples of our work.</div>
                             <div class="panel-body">
-                                
+                                <?php
+                                    echo '<img src="img/flyers/'.$pick1.'.png" class="flyer1">';
+                                    echo '<img src="img/flyers/'.$pick2.'.png" class="flyer1">';
+                                ?>
                             </div>
                         </div>
                     </div>

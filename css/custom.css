@@ -98,6 +98,56 @@ CD styles
   margin-top: -30%;
 }
 
+@-webkit-keyframes rotate {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to { 
+    -webkit-transform: rotate(359deg);
+  }
+}
+
+@-webkit-keyframes rotateback {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to { 
+    -webkit-transform: rotate(-359deg);
+  }
+}
+
+.cd1 {
+    -webkit-animation-name: rotate; 
+    -webkit-animation-duration: 4s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-transition-timing-function: linear;
+}
+
+.cd2 {
+    -webkit-animation-name: rotateback; 
+    -webkit-animation-duration: 8s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-transition-timing-function: linear;
+}
+
+.cd3 {
+    -webkit-animation-name: rotate; 
+    -webkit-animation-duration: 16s; 
+    -webkit-animation-iteration-count: infinite;
+    -webkit-transition-timing-function: linear;
+}
+
+/****************************************
+Flyer styles
+****************************************/
+.flyer1,
+.flyer2 {
+  width: 50%;
+  height: auto;
+  padding: none;
+  display: inline-block;
+}
+
 /****************************************
 footer styles
 ****************************************/
