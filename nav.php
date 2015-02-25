@@ -51,7 +51,7 @@
                      ?>
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Repairs <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
-                            <li><a href="comprepairs">Computer Repairs</a></li>
+                            <li><a href="comprepairs.php">Computer Repairs</a></li>
                             <li><a href="#">Mobile Repairs</a></li>
                             <li class="divider"></li>
                             <li><a href="#">Book Now</a></li>
