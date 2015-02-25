@@ -20,6 +20,16 @@
     <?php 
         $page = "printing"; 
         include "nav.php"; 
+        $cds=count(glob("img/cds/*",GLOB_BRACE));
+        $pick1=rand(1,$cds);
+        $pick2=rand(1,$cds);
+        while ($pick2==$pick1) {
+            $pick2=rand(1,$cds);
+        }
+        $pick3=rand(1,$cds);
+        while ($pick3==$pick2 || $pick3==$pick1){
+            $pick3=rand(1,$cds);
+        }
     ?>
 
     <div class="wrapper">
@@ -55,9 +65,11 @@
                         <div class="panel panel-info">
                             <div class="panel-heading">Some examples of our work.</div>
                             <div class="panel-body">
-                                <img src="img/cds/1.png" class="cd1">
-                                <img src="img/cds/2.png" class="cd2">
-                                <img src="img/cds/3.png" class="cd3">
+                                <?php
+                                    echo ' <img src="img/cds/'.$pick1.'.png" class="cd1">';
+                                    echo ' <img src="img/cds/'.$pick2.'.png" class="cd2">';
+                                    echo ' <img src="img/cds/'.$pick3.'.png" class="cd3">';
+                                ?>
                             </div>
                         </div>
                     </div>

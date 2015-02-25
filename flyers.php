@@ -20,6 +20,7 @@
     <?php 
         $page = "printing"; 
         include "nav.php"; 
+        $flyers=count(glob("img/flyers/*",GLOB_BRACE));
     ?>
 
     <div class="wrapper">
