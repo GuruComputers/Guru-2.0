@@ -66,19 +66,6 @@
                             </div>
                         </div>
                     </div>
-                    
-                    <div class="col-md-20 column">
-                        <div class="panel panel-info">
-                            <div class="panel-heading">Guru Computers SPECIAL OFFER</div>
-                            <div class="panel-body">
-                                <p>Have your CD's printed in our in-house facilities and get the data burnt onto the CD's at the same time at no extra cost.</p>
-                                <br/>
-                                <center>
-                                    <p><h3>Priced at just 63p excluding VAT per CD / 75p including VAT</h3></p>
-                                </center>
-                            </div>
-                        </div>
-                    </div>
 
                 </div>
             </div>
