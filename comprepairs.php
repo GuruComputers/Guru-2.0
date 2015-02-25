@@ -49,8 +49,7 @@
                 <div class="panel panel-info">
                     <div class="panel-heading">PC Upgrades</div>
                     <div class="panel-body text-center">
-                        <p>Guru Computers Ltd are specialists in PC upgrades and replacing PC components on your machine. Want your laptop memory improved? No problem, we have everything you need to give your laptop that extra kick in terms of performance.</p> 
-                        <p>Maybe it’s your PC memory that has an issue, in which case you can explore the range of memory options we have for desktop machines.</p>
+                        <p>Guru Computers Ltd are specialists in PC upgrades and replacing PC components on your machine. Want your Desktop or laptop memory improved? No problem, we have everything you need to give your machine that extra kick in terms of performance.</p> 
                         <p>In addition to our memory options we offer a range of component hardware to improve your PC’s performance. Our CD, DVD and Blu-ray drives are perfect for those who enjoy multimedia on their computers, and our internal hard drives are manufactured with up to 6TB of storage space!</p>
                         <p>We could even build a PC from scratch with your own spec if you would rather have something different to a standard spec machine!.</p>
                     </div>
