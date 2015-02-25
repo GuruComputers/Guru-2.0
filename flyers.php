@@ -27,16 +27,38 @@
             <div class="row clearfix">
                 <div class="row clearfix">
                    
-                    <div class="col-md-20 column">
+                    <div class="col-md-10 column">
                         <div class="panel panel-info">
                             <div class="panel-heading">Flyers & Leaflets</div>
                             <div class="panel-body">
                                 <p>Have a need for some flyers at competative prices?</p>
-                                <p>You need look no further, here at Guru Computers </p>
+                                <p>You need look no further, here at Guru Computers we do in-house and out-house professional printing.</p>
+                                <p><b>Sizes and Styles :-</b></p>
+                                <ul>
+                                    <li>Single Sided</li>
+                                    <li>Double Sided</li>
+                                    <li>Gloss</li>
+                                    <li>Silk</li>
+                                    <li>Laminated</li>
+                                    <li>Credit Card Sized</li>
+                                    <li>A6</li>
+                                    <li>A5</li>
+                                    <li>A4</li>
+                                    <li>DL</li>
+                                </ul>
                                 <br/>
                                 <center>
-                                    <p><h3>Priced at just 63p excluding VAT per Flyer / 75p including VAT</h3></p>
+                                    <p><h3>Contact us to discuss your requirements.</h3></p>
                                 </center>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-10 column">
+                        <div class="panel panel-info">
+                            <div class="panel-heading">Examples of our work.</div>
+                            <div class="panel-body">
+                                
                             </div>
                         </div>
                     </div>
