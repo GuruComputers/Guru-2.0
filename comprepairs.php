@@ -36,17 +36,18 @@
         <div class="row">
             <div class="col-md-6 col-md-offset-1">
                 <div class="panel panel-info">
-                    <div class="panel-heading">Design</div>
+                    <div class="panel-heading">Virus Removals</div>
                     <div class="panel-body text-center">
-                        <p>Our design mockups and wireframes are presented in Mobile, Tablet & Desktop Formats.</p>
-                        <p>These mockups allow us to work with you to make sure your visitors don't miss any important information when they use a smaller device.</p>
-                        <p>We then adapt the website between these device designs to make sure a 7" tablet shows the same as a 10.1" so your website is truely fluid and responsive.</p>
+                        <p>We use BullGuard Internet Security that delivers the best security tools to simply protect you from all online threats.</p>
+                        <p>Bullguard utilizes Award-winning technology with multiple protection layers for superior virus catch rates - as testified by independent labs.</p>
+                        <p>We will help you Stop unwanted applications from taking over your browser, toolbar and search engine.</p>
+                        <p>We also provide an Easy-to-use and powerful Parental Control System that keeps your kids safe from cyberbullying and predators.</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="panel panel-info">
-                    <div class="panel-heading">Build</div>
+                    <div class="panel-heading">PC Upgrades</div>
                     <div class="panel-body text-center">
                         <p>Before we get stuck into coding your website, we ensure we have developed a secure, high performance platform for your website to run on.</p>
                         <p>We utilize the latest CSS3, SASS, LESS, HTML5 and jQuery Techniques to ensure your website works well on any device.</p>
@@ -56,7 +57,39 @@
             </div>
             <div class="col-md-6">
                 <div class="panel panel-info">
-                    <div class="panel-heading">Test</div>
+                    <div class="panel-heading">Operating System Reinstalls</div>
+                    <div class="panel-body text-center">
+                        <p>Your website is only a success when it can be navigated with ease, so we perform rigourous testing throughout the development process.</p>
+                        <p>We test your website thoughout the build on several different browsers and devices to ensure maxiumum compatibility. Then we check to make sure there are no vulnerabilities!</p>
+                        <p>During this testing phase, we may invite you to test the website yourselves for ease-of-use.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 col-md-offset-1">
+                <div class="panel panel-info">
+                    <div class="panel-heading">Laptop Screen Replacements</div>
+                    <div class="panel-body text-center">
+                        <p>Our design mockups and wireframes are presented in Mobile, Tablet & Desktop Formats.</p>
+                        <p>These mockups allow us to work with you to make sure your visitors don't miss any important information when they use a smaller device.</p>
+                        <p>We then adapt the website between these device designs to make sure a 7" tablet shows the same as a 10.1" so your website is truely fluid and responsive.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-info">
+                    <div class="panel-heading">Remote Support</div>
+                    <div class="panel-body text-center">
+                        <p>Before we get stuck into coding your website, we ensure we have developed a secure, high performance platform for your website to run on.</p>
+                        <p>We utilize the latest CSS3, SASS, LESS, HTML5 and jQuery Techniques to ensure your website works well on any device.</p>
+                        <p>We also make sure that all Fonts, Images and other User Interface Elements are responsive to the best standard current web technologies allow for.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-info">
+                    <div class="panel-heading">Data Recovery</div>
                     <div class="panel-body text-center">
                         <p>Your website is only a success when it can be navigated with ease, so we perform rigourous testing throughout the development process.</p>
                         <p>We test your website thoughout the build on several different browsers and devices to ensure maxiumum compatibility. Then we check to make sure there are no vulnerabilities!</p>
