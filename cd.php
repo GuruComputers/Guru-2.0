@@ -29,17 +29,24 @@
 
                     <div class="col-md-10 column">
                         <div class="panel panel-info">
-                            <div class="panel-heading">Need some CD's printed?</div>
+                            <div class="panel-heading">Need some CD's printed & data burnt on them?</div>
                             <div class="panel-body">
-                                <p>Our In-House CD printing is what you need.</P>
-                                <p>We are able to print your CD's on a range of full face printable CD's.</p>
-                                <p>Perfect for promotional CD's to send off to Record Labels, Radio Station's, Press.</p>
-                                <p>Due to the CD's being printed in-house we are able to get the fastest turn around possible.</p>
-                                <p>Need help in the design? That's no problem our professional team are able to tweak your graphics to enable the best results.</p>
+                                <p>Our In-House CD printing & data burning service is what you need.</P>
+                                <p>We have our professionals here waiting to help.</p>
+                                <p>The benefits of using our CD services :-</p>
                                 <br/>
+                                <ul>
+                                    <li>As the CD's are printed & burnt in-house we offer a very fast turn around.</li>
+                                    <li>We can help with tweaking the graphics for the best results.</li>
+                                    <li>We can normalise the sound levels to keep the tracks consistant.</li>
+                                    <li>We have no minimum order quantity.</li>
+                                    <li>We are amongst the chepest in the south.</li>
+                                </ul>
                                 <center>
                                     <p><h3>Priced at just 63p excluding VAT per CD / 75p including VAT</h3></p>
                                 </center>
+                                <p><b>Please note due to the nature of the product the client normally collects or we hand deliver within a 10 mile radius.</b></p>
+                                <p>Postage can be arranged at cost price if required. Please email sales@gurucomputers.co.uk for more details.</p>
                             </div>
                         </div>
                     </div>
