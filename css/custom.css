@@ -148,6 +148,10 @@ Flyer styles
   display: inline-block;
 }
 
+.flyer1 {
+ padding-right: 1%;
+}
+
 /****************************************
 footer styles
 ****************************************/
